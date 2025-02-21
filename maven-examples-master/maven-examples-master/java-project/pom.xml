@@ -7,7 +7,7 @@
     <artifactId>java-project</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>java-project</name>
+    <name>java-projectdd</name>
     <url>http://maven.apache.org</url>
 
     <properties>
